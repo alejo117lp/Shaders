@@ -65,6 +65,8 @@ Material:
     - _DisplacementStrenght: 0.03
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _RippleScale: 0.02
     m_Colors:
     - _Color: {r: 0.24313715, g: 0.5649722, b: 0.8784314, a: 0}
+    - _RipplesCenter: {r: -0.48, g: 0, b: 4.43, a: 3}
   m_BuildTextureStacks: []
